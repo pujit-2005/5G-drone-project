@@ -15,6 +15,14 @@ The system integrates:
 - Autonomous actuation
 
 ---
+## 🌍 Problem Statement
+
+Traditional agriculture uses uniform pesticide spraying, leading to:
+- Excess chemical usage
+- Environmental damage
+- Reduced efficiency
+
+This project solves this using AI-driven, real-time precision spraying.
 
 ## 🧠 Key Idea
 
@@ -100,4 +108,9 @@ This system enables:
 
 ---
 
-## 📁 Project Structure
+## 🔮 Future Work
+
+- Real-time deployment on UAV hardware
+- Integration with IoT soil sensors
+- Edge optimization for low-power devices
+- Multi-drone swarm coordination
